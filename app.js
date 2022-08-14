@@ -4,9 +4,9 @@
     this,department=department;
     this.level=level;
     this.imageURL=imageURL;
-    this.salary=SalaryCalculating(level);
+    this.salary=salaryCalculating(level);
 
-function SalaryCalculating (level){
+function salaryCalculating (level){
 switch(level){
     case "Junior":
        this.salary=Math.floor(Math.random()*(1000-500))+500;
