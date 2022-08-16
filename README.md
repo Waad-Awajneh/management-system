@@ -11,3 +11,11 @@ Adding style.css.
 
 # task two 
 Adding table to main using js.
+
+
+
+# task three 
+1. Add a form 
+2. Add an event listener to get the data from the form instead of having hard coded data.
+3. Refactor the render function to render each employee information in a separate card in the home page
+4. Add all the employees in an array and save it to the local storage.
