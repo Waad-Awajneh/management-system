@@ -1,0 +1,25 @@
+table {
+    /* border-collapse: collapse; */
+    width: 50%;
+    border: solid rgb(138, 138, 193) 2px;
+    width: 50%;
+    height: 50%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  
+   
+  }
+  td{
+    width: 100px;
+  }
+  
+  
+  th {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+

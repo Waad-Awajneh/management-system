@@ -7,3 +7,7 @@ Adding app.js file we using object and finction an loop to input employee inform
 Adding style.css.
 
 🔗 live link : [a link] (https://waad-awajneh.github.io/management-system/)
+
+
+# task two 
+Adding table to main using js.
